@@ -9,7 +9,9 @@ versão 0.0.1
 em construção
 
 suporte via chat
+
 Foto dos moradores
+
 bloqueio de visitantes
 
 
