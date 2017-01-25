@@ -1,16 +1,22 @@
 # 2015 	ASSTITEL – Associação dos Trabalhadores de TI e Telecom
-Associação de trabalhadores.
+Associação de trabalhadores
+
 Instrutor
+
 Treinamento preparatório para exame de certificação LPIC 117-101.
 
 # 2015 	Pronatec – Capinópolis
 Projeto Educacional.
+
 Instrutor
+
 Noções básicas HTML5, CSS3.
 
 # 2015 	Flisol UDI – http://flisoludi.com
 Projeto sobre software livre.
+
 Coordenador
+
 Evento que promove o uso de software livre
 
 https://twitter.com/flisoludi
