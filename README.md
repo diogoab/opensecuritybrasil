@@ -13,6 +13,7 @@ Projeto sobre software livre.
 Coordenador
 Evento que promove o uso de software livre
 https://twitter.com/flisoludi
+
 https://www.facebook.com/pg/flisoludi/about/
 
 # 2016 Opensecurity brasil
